@@ -57,19 +57,13 @@ Random Forest achieved the strongest performance and was selected as the final m
 
 ---
 
-## Live Demo
+Live Demo
 
-**Hugging Face Space**
+🚀 **[Live Demo](https://huggingface.co/spaces/MSK34/store-sales-forecasting)**
 
-https://huggingface.co/spaces/MSK34/store-sales-forecasting
+Kaggle Notebook
 
----
-
-## Kaggle Notebook
-
-**Kaggle Notebook**
-
-https://www.kaggle.com/code/mhnskaya/store-sales-forecasting
+📊 **[Kaggle Notebook](https://www.kaggle.com/code/mhskaya/store-sales-forecasting)**
 
 ---
 
